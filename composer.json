@@ -1,5 +1,5 @@
 {
-    "name": "homicity/laravel-mandrill",
+    "name": "tylersatre/laravel-mandrill",
     "description": "A laravel mail macro to use mandrill templates",
     "type": "library",
     "license": "MIT",
